@@ -1,0 +1,12 @@
+pip install --user -U nltk
+pip install --user -U numpy
+conda install requests
+conda install html5lib
+conda install beautifulsoup4
+conda install json
+conda install pandas
+pip install stanza
+pip install gensim
+pip install sklearn
+conda install matplotlib
+conda install transformers
